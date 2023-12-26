@@ -15,7 +15,7 @@ I once held a stranger's hand when he died. I’d brought him to a hospital and 
 
 I find it fulfilling to help people. Making the world a better place brings me joy - it makes me feel good. It is painful and depressing to stand by and do nothing while people suffer and we collectively destroy our planet.
 
-There are hundreds of millions of amazing people on our planet who live on less than I spend on a cup of coffee - they are caught in a perpetual struggle to find food. Basic education is not an option - healthcare is not a priority when you are starving. I've seen it. I've witnessed the plight of a single mother in rural Africa. I've seen the story in Central and South America. I understand how our actions in the "developed world" drive climate change and make the poorest peoples lifes that much harder. It makes me angry - I cannot and will not stand by and do nothing.
+There are hundreds of millions of amazing people on our planet who live on less than I spend on a cup of coffee - they are caught in a perpetual struggle to find food. Basic education is not an option - healthcare is not a priority when you are starving. I've seen it. I've witnessed the plight of a single mother in rural Africa. I've seen the story in Central and South America. I understand how our actions in the "developed world" drive climate change and make the poorest people's lives that much harder. It makes me angry - I cannot and will not stand by and do nothing.
 
 For me, Greenstand is a social project. It’s answering the needs of the most powerful climate activists this planet has. If we support that woman in her struggle, she, together with her neighbors and millions of others like her, will clean our atmosphere; they will build the most effective climate solution possible - forests.
 
@@ -61,7 +61,7 @@ You must be:
  - Outgoing. There is a community to support you as you go, don't be afraid to ask questions, dive in, and read documents. If you can't find an answer, someone else can't find it as well. Ask and keep on asking.
 
 # Your FIRST TASK: 
-1. Orent yourself - take a look around - you should be able to find a team or channel you would like to join or lead. 
+1. Orient yourself - take a look around - you should be able to find a team or channel you would like to join or lead. 
 2. Understand the technology Greenstand is creating. Map.treetracker.org, you can also view apps, and other dashboards - find a problem to report and if you can't find where or who to report it to ask.
 3. Improve documentation - if you got stuck or lost it is mostly a documentation issue! Improving documentation is critical to our success.
 
